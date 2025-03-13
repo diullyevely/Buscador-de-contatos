@@ -16,7 +16,7 @@
 <h2 align="center">Projeto para visualização:</h2>
 <br>
 <div align="center">
-<img src="" height="200px">
+<img src="https://github.com/diullyevely/Buscador-de-contatos/blob/main/assets/Design%20sem%20nome%20(1).png?raw=true" height="200px">
   </div>
   <h2>Dicas de como usar: Digites um dos nomes -> </h2>
   <ul>
